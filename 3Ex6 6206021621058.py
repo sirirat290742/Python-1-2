@@ -1,0 +1,8 @@
+s = input('Enter your name : ')
+print(s.capitalize)
+print("Your name have ")
+print( s.count('a') )
+print( s.count('e') )
+print( s.count('i') )
+print( s.count('o') )
+print( s.count('u') )
